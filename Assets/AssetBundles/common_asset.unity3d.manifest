@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4278909905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f01c91a3493a4cf0b1b5626e8ae16bb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Common/zhanghao.png
+- Assets/Textures/Common/accounts_password_background.png
+- Assets/Textures/Common/red_button2.png
+Dependencies: []

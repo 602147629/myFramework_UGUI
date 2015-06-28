@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 847223598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a16a0eb38f093f588f9e06b90301553
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 687e69b670cde8559d26fe8b3eca4d21
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/Avatar/n2010/Materials/n2010.mat
+Dependencies: []

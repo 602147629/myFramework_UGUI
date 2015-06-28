@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3509013662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f570f87d2993bc4e300123bee7df4be8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9b6d1f329ea9c930165207f1d20c328
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/Avatar/n2010/n2010.prefab
+Dependencies:
+- e:/myframework_ugui/assets/AssetBundles/animation.unity3d
+- e:/myframework_ugui/assets/AssetBundles/material.unity3d

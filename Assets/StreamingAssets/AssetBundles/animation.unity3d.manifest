@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3650252029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 436859b4cd5e76a47d1e09b8cf6f710f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71a174530c4266f921971f7be3fa65ff
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/Avatar/n2010/ani/n2010_ready.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_skill_5.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_skill_2.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_walk.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_skill_3.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_born.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_skill_4.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_skill_1.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_hit.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_die.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_idle.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_run.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_skill_6.anim
+- Assets/Characters/Avatar/n2010/ani/n2010_stun.anim
+Dependencies: []

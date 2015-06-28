@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: common_asset.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: shared_asset.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: prompt_asset.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: animation.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: login.unity3d
+      Dependencies:
+        Dependency_0: common_asset.unity3d
+    Info_6:
+      Name: material.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: prompt.unity3d
+      Dependencies:
+        Dependency_0: shared_asset.unity3d
+        Dependency_1: prompt_asset.unity3d
+    Info_8:
+      Name: message.unity3d
+      Dependencies:
+        Dependency_0: shared_asset.unity3d
+    Info_9:
+      Name: npc.unity3d
+      Dependencies:
+        Dependency_0: animation.unity3d
+        Dependency_1: material.unity3d
